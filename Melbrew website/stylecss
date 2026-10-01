@@ -1,0 +1,16 @@
+.navbar-brand{
+margin-right: 50vh;
+color: white;
+}
+.navbar{
+    background-color: purple;
+}
+collapse{
+    color: white
+}
+.btn{
+    background-color: white;
+}
+.ul{
+    
+}
